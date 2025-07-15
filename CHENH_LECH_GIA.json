@@ -1,38 +1,47 @@
 [
     {
-        "timestamp": "2025-07-15T21:24:00.355581",
+        "timestamp": "2025-07-15T21:26:00.523998",
         "symbol": "SC/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.0035919999999999997,
+        "sell_price": 0.0035915,
         "buy_exchange": "Binance",
-        "buy_price": 0.0033175,
-        "diff_percent": 8.274302938960048
+        "buy_price": 0.0033115,
+        "diff_percent": 8.45538275705873
     },
     {
-        "timestamp": "2025-07-15T21:24:00.355581",
+        "timestamp": "2025-07-15T21:26:00.523998",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.1775,
+        "sell_price": 0.1774,
         "buy_exchange": "Binance",
-        "buy_price": 0.16815,
-        "diff_percent": 5.560511448111803
+        "buy_price": 0.16795,
+        "diff_percent": 5.626674605537371
     },
     {
-        "timestamp": "2025-07-15T21:24:00.355581",
-        "symbol": "ARW/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 0.025815,
-        "buy_exchange": "MEXC",
-        "buy_price": 0.02515,
-        "diff_percent": 2.6441351888668088
-    },
-    {
-        "timestamp": "2025-07-15T21:24:00.355581",
+        "timestamp": "2025-07-15T21:26:00.523998",
         "symbol": "MYTH/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.1043,
+        "sell_price": 0.10475,
         "buy_exchange": "Gate.io",
-        "buy_price": 0.10165,
-        "diff_percent": 2.606984751598622
+        "buy_price": 0.10155,
+        "diff_percent": 3.1511570654849774
+    },
+    {
+        "timestamp": "2025-07-15T21:26:00.523998",
+        "symbol": "FOXY/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.0023829999999999997,
+        "buy_exchange": "OKX",
+        "buy_price": 0.0023105,
+        "diff_percent": 3.1378489504436113
+    },
+    {
+        "timestamp": "2025-07-15T21:26:00.523998",
+        "symbol": "DOLO/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.06398999999999999,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.062335,
+        "diff_percent": 2.655009224352274
     }
 ]
