@@ -1,11 +1,20 @@
 [
     {
-        "timestamp": "2025-07-15T23:08:00.091058",
+        "timestamp": "2025-07-15T23:10:00.382117",
         "symbol": "S/USDT",
         "sell_exchange": "Kraken",
-        "sell_price": 0.35405,
+        "sell_price": 0.3544,
         "buy_exchange": "Binance",
-        "buy_price": 0.34804999999999997,
-        "diff_percent": 1.7238902456543617
+        "buy_price": 0.34745,
+        "diff_percent": 2.000287811195859
+    },
+    {
+        "timestamp": "2025-07-15T23:10:00.382117",
+        "symbol": "BONK/USDT",
+        "sell_exchange": "Bybit",
+        "sell_price": 2.9463e-05,
+        "buy_exchange": "OKX",
+        "buy_price": 2.9216e-05,
+        "diff_percent": 0.8454271631982458
     }
 ]
