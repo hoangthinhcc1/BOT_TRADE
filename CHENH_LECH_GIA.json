@@ -1,11 +1,20 @@
 [
     {
-        "timestamp": "2025-07-15T19:11:00.119638",
+        "timestamp": "2025-07-15T21:12:00.157403",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
         "sell_price": 0.17485,
         "buy_exchange": "MEXC",
         "buy_price": 0.1661,
         "diff_percent": 5.267910897049974
+    },
+    {
+        "timestamp": "2025-07-15T21:12:00.157403",
+        "symbol": "TAC/USDT",
+        "sell_exchange": "Bybit",
+        "sell_price": 0.019252,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.018697,
+        "diff_percent": 2.9683906509065627
     }
 ]
