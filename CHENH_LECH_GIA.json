@@ -1,20 +1,29 @@
 [
     {
-        "timestamp": "2025-07-15T18:31:00.066760",
+        "timestamp": "2025-07-15T18:32:00.510876",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.17475,
-        "buy_exchange": "WhiteBIT",
-        "buy_price": 0.1651,
-        "diff_percent": 5.844942459115683
+        "sell_price": 0.17385,
+        "buy_exchange": "Binance",
+        "buy_price": 0.16544999999999999,
+        "diff_percent": 5.077062556663656
     },
     {
-        "timestamp": "2025-07-15T18:31:00.066760",
+        "timestamp": "2025-07-15T18:32:00.510876",
+        "symbol": "PHA/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.10989399999999999,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.10713500000000001,
+        "diff_percent": 2.5752555187380253
+    },
+    {
+        "timestamp": "2025-07-15T18:32:00.510876",
         "symbol": "MYTH/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.1047,
+        "sell_price": 0.10425,
         "buy_exchange": "Gate.io",
         "buy_price": 0.10189999999999999,
-        "diff_percent": 2.747791952895006
+        "diff_percent": 2.306182531894019
     }
 ]
