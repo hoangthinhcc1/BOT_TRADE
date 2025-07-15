@@ -1,11 +1,20 @@
 [
     {
-        "timestamp": "2025-07-15T18:42:00.207376",
+        "timestamp": "2025-07-15T18:43:00.074118",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
         "sell_price": 0.1748,
-        "buy_exchange": "MEXC",
-        "buy_price": 0.1654,
-        "diff_percent": 5.6831922611850185
+        "buy_exchange": "Binance",
+        "buy_price": 0.16544999999999999,
+        "diff_percent": 5.6512541553339535
+    },
+    {
+        "timestamp": "2025-07-15T18:43:00.074118",
+        "symbol": "MYTH/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.10545,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.10289999999999999,
+        "diff_percent": 2.4781341107871824
     }
 ]
