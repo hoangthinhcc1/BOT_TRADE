@@ -1,20 +1,38 @@
 [
     {
-        "timestamp": "2025-07-15T18:57:00.093280",
+        "timestamp": "2025-07-15T18:58:00.426251",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.17459999999999998,
+        "sell_price": 0.17485,
         "buy_exchange": "MEXC",
-        "buy_price": 0.1661,
-        "diff_percent": 5.117399157134244
+        "buy_price": 0.16645,
+        "diff_percent": 5.046560528687305
     },
     {
-        "timestamp": "2025-07-15T18:57:00.093280",
+        "timestamp": "2025-07-15T18:58:00.426251",
         "symbol": "JASMY/USDT",
-        "sell_exchange": "WhiteBIT",
-        "sell_price": 0.016243,
+        "sell_exchange": "MEXC",
+        "sell_price": 0.016336,
         "buy_exchange": "Coinbase",
         "buy_price": 0.01586,
-        "diff_percent": 2.4148802017654565
+        "diff_percent": 3.001261034047924
+    },
+    {
+        "timestamp": "2025-07-15T18:58:00.426251",
+        "symbol": "ARW/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.02524,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.024689999999999997,
+        "diff_percent": 2.227622519238566
+    },
+    {
+        "timestamp": "2025-07-15T18:58:00.426251",
+        "symbol": "PENGU/USDT",
+        "sell_exchange": "Binance",
+        "sell_price": 0.0322765,
+        "buy_exchange": "Kraken",
+        "buy_price": 0.031598,
+        "diff_percent": 2.1472878030255034
     }
 ]
