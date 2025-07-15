@@ -1,65 +1,56 @@
 [
     {
-        "timestamp": "2025-07-15T18:02:00.429429",
+        "timestamp": "2025-07-15T18:03:00.455416",
         "symbol": "KLV/USDT",
         "sell_exchange": "HTX",
         "sell_price": 0.0021525,
         "buy_exchange": "KuCoin",
-        "buy_price": 0.0019905,
-        "diff_percent": 8.138658628485295
+        "buy_price": 0.0019909999999999997,
+        "diff_percent": 8.111501757910608
     },
     {
-        "timestamp": "2025-07-15T18:02:00.429429",
+        "timestamp": "2025-07-15T18:03:00.455416",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.17475000000000002,
-        "buy_exchange": "Binance",
-        "buy_price": 0.16675,
-        "diff_percent": 4.797601199400304
+        "sell_price": 0.17435,
+        "buy_exchange": "Bybit",
+        "buy_price": 0.1668,
+        "diff_percent": 4.526378896882495
     },
     {
-        "timestamp": "2025-07-15T18:02:00.429429",
+        "timestamp": "2025-07-15T18:03:00.455416",
         "symbol": "MYTH/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.10425,
+        "sell_price": 0.10439999999999999,
         "buy_exchange": "Gate.io",
         "buy_price": 0.10105,
-        "diff_percent": 3.1667491340920284
+        "diff_percent": 3.31519049975259
     },
     {
-        "timestamp": "2025-07-15T18:02:00.429429",
-        "symbol": "PBUX/USDT",
-        "sell_exchange": "Bybit",
-        "sell_price": 0.004593,
-        "buy_exchange": "HTX",
-        "buy_price": 0.004465,
-        "diff_percent": 2.8667413213885697
-    },
-    {
-        "timestamp": "2025-07-15T18:02:00.429429",
-        "symbol": "NODE/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.047619999999999996,
-        "buy_exchange": "KuCoin",
-        "buy_price": 0.046335,
-        "diff_percent": 2.773281536635361
-    },
-    {
-        "timestamp": "2025-07-15T18:02:00.429429",
+        "timestamp": "2025-07-15T18:03:00.455416",
         "symbol": "SIS/USDT",
         "sell_exchange": "Bybit",
         "sell_price": 0.074485,
         "buy_exchange": "HTX",
-        "buy_price": 0.07264999999999999,
-        "diff_percent": 2.5258086717137007
+        "buy_price": 0.0726,
+        "diff_percent": 2.5964187327823662
     },
     {
-        "timestamp": "2025-07-15T18:02:00.429429",
+        "timestamp": "2025-07-15T18:03:00.455416",
+        "symbol": "PBUX/USDT",
+        "sell_exchange": "KuCoin",
+        "sell_price": 0.00456,
+        "buy_exchange": "HTX",
+        "buy_price": 0.004455,
+        "diff_percent": 2.356902356902358
+    },
+    {
+        "timestamp": "2025-07-15T18:03:00.455416",
         "symbol": "ATM/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 1.06545,
+        "sell_price": 1.0641500000000002,
         "buy_exchange": "Binance",
-        "buy_price": 1.04,
-        "diff_percent": 2.447115384615382
+        "buy_price": 1.0405,
+        "diff_percent": 2.2729456991831016
     }
 ]
