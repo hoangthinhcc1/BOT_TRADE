@@ -1,29 +1,38 @@
 [
     {
-        "timestamp": "2025-07-15T21:44:00.112070",
+        "timestamp": "2025-07-15T21:46:00.185458",
+        "symbol": "SC/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.003595,
+        "buy_exchange": "Binance",
+        "buy_price": 0.003274,
+        "diff_percent": 9.8045204642639
+    },
+    {
+        "timestamp": "2025-07-15T21:46:00.185458",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.17754999999999999,
+        "sell_price": 0.17704999999999999,
         "buy_exchange": "Binance",
-        "buy_price": 0.16615,
-        "diff_percent": 6.861269936804089
+        "buy_price": 0.16635,
+        "diff_percent": 6.432221220318597
     },
     {
-        "timestamp": "2025-07-15T21:44:00.112070",
-        "symbol": "FOXY/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 0.002399,
-        "buy_exchange": "OKX",
-        "buy_price": 0.0022615,
-        "diff_percent": 6.080035374751272
-    },
-    {
-        "timestamp": "2025-07-15T21:44:00.112070",
+        "timestamp": "2025-07-15T21:46:00.185458",
         "symbol": "MYTH/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.10595,
+        "sell_price": 0.1057,
         "buy_exchange": "Gate.io",
-        "buy_price": 0.10089999999999999,
-        "diff_percent": 5.004955401387526
+        "buy_price": 0.10115,
+        "diff_percent": 4.4982698961937695
+    },
+    {
+        "timestamp": "2025-07-15T21:46:00.185458",
+        "symbol": "SYS/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.04265,
+        "buy_exchange": "Binance",
+        "buy_price": 0.04172,
+        "diff_percent": 2.2291466922339414
     }
 ]
