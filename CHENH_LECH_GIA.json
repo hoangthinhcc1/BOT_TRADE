@@ -1,38 +1,47 @@
 [
     {
-        "timestamp": "2025-07-15T21:48:00.240344",
+        "timestamp": "2025-07-15T21:50:00.262667",
         "symbol": "SC/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.003598,
+        "sell_price": 0.0035640000000000003,
         "buy_exchange": "Binance",
-        "buy_price": 0.0032845,
-        "diff_percent": 9.544831785659918
+        "buy_price": 0.00328,
+        "diff_percent": 8.658536585365866
     },
     {
-        "timestamp": "2025-07-15T21:48:00.240344",
+        "timestamp": "2025-07-15T21:50:00.262667",
         "symbol": "LUNA/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.17709999999999998,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.16645,
-        "diff_percent": 6.3983178131571
+        "sell_price": 0.177,
+        "buy_exchange": "Binance",
+        "buy_price": 0.16655,
+        "diff_percent": 6.274392074452109
     },
     {
-        "timestamp": "2025-07-15T21:48:00.240344",
+        "timestamp": "2025-07-15T21:50:00.262667",
         "symbol": "MYTH/USDT",
         "sell_exchange": "HTX",
-        "sell_price": 0.1053,
+        "sell_price": 0.10505,
         "buy_exchange": "Gate.io",
         "buy_price": 0.10095,
-        "diff_percent": 4.309063893016352
+        "diff_percent": 4.061416542842998
     },
     {
-        "timestamp": "2025-07-15T21:48:00.240344",
-        "symbol": "DOLO/USDT",
+        "timestamp": "2025-07-15T21:50:00.262667",
+        "symbol": "FOXY/USDT",
+        "sell_exchange": "OKX",
+        "sell_price": 0.0023439999999999997,
+        "buy_exchange": "Bybit",
+        "buy_price": 0.002259,
+        "diff_percent": 3.762726870296572
+    },
+    {
+        "timestamp": "2025-07-15T21:50:00.262667",
+        "symbol": "TAC/USDT",
         "sell_exchange": "Bybit",
-        "sell_price": 0.063535,
+        "sell_price": 0.0202935,
         "buy_exchange": "MEXC",
-        "buy_price": 0.062225,
-        "diff_percent": 2.1052631578947234
+        "buy_price": 0.019832000000000002,
+        "diff_percent": 2.3270471964501644
     }
 ]
