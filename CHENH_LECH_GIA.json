@@ -1,6 +1,24 @@
 [
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "C/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 0.15488000000000002,
+        "buy_exchange": "KuCoin",
+        "buy_price": 0.131165,
+        "diff_percent": 18.08028056265011
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "DEFI/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.0031855,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.0027455,
+        "diff_percent": 16.026224731378612
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "VELAAI/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.012719999999999999,
@@ -9,16 +27,16 @@
         "diff_percent": 14.029583146571031
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "DOGE3L/USDT",
         "sell_exchange": "KuCoin",
-        "sell_price": 0.034774,
+        "sell_price": 0.034715499999999996,
         "buy_exchange": "Gate.io",
-        "buy_price": 0.03108,
-        "diff_percent": 11.885456885456884
+        "buy_price": 0.0312,
+        "diff_percent": 11.267628205128197
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "TRIBE/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.4647,
@@ -27,43 +45,16 @@
         "diff_percent": 11.012900143334933
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "DEFI/USDT",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "FUN/USDT",
         "sell_exchange": "Gate.io",
-        "sell_price": 0.0030025,
-        "buy_exchange": "MEXC",
-        "buy_price": 0.002708,
-        "diff_percent": 10.875184638109308
+        "sell_price": 0.0223385,
+        "buy_exchange": "Binance",
+        "buy_price": 0.02085,
+        "diff_percent": 7.1390887290167875
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "JUV/USDT",
-        "sell_exchange": "HTX",
-        "sell_price": 1.02645,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.9344,
-        "diff_percent": 9.851241438356173
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "KLV/USDT",
-        "sell_exchange": "HTX",
-        "sell_price": 0.002125,
-        "buy_exchange": "KuCoin",
-        "buy_price": 0.001984,
-        "diff_percent": 7.106854838709681
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "OOKI/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 3.0935e-06,
-        "buy_exchange": "Gate.io",
-        "buy_price": 2.8885e-06,
-        "diff_percent": 7.097109226242
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "WHITE/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.00040054999999999995,
@@ -72,7 +63,7 @@
         "diff_percent": 7.01309110339299
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "PIG/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 1.8075e-08,
@@ -81,52 +72,61 @@
         "diff_percent": 6.921029281277748
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "XRP3L/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 6.251,
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "KLV/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.0021165000000000003,
         "buy_exchange": "KuCoin",
-        "buy_price": 5.86475,
-        "diff_percent": 6.585958480753663
+        "buy_price": 0.0019825,
+        "diff_percent": 6.759142496847437
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "XRP3L/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 6.257,
+        "buy_exchange": "KuCoin",
+        "buy_price": 5.861700000000001,
+        "diff_percent": 6.743777402460018
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "DIONE/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.0010087,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.0009505,
+        "diff_percent": 6.123093108890059
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "XDC/USDT",
         "sell_exchange": "WhiteBIT",
         "sell_price": 0.078625,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.07414000000000001,
-        "diff_percent": 6.049366064202843
+        "buy_exchange": "CoinEx",
+        "buy_price": 0.074202,
+        "diff_percent": 5.960755774776955
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "LUNA/USDT",
-        "sell_exchange": "HTX",
-        "sell_price": 0.17404999999999998,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.16475,
-        "diff_percent": 5.644916540212427
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "BAT/USDT",
         "sell_exchange": "WhiteBIT",
         "sell_price": 0.1549,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.1467,
-        "diff_percent": 5.589638718473084
+        "buy_exchange": "HTX",
+        "buy_price": 0.14655,
+        "diff_percent": 5.697714090754006
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "DIONE/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 0.00100885,
-        "buy_exchange": "MEXC",
-        "buy_price": 0.000956,
-        "diff_percent": 5.528242677824257
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "LUNA/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.17359999999999998,
+        "buy_exchange": "WhiteBIT",
+        "buy_price": 0.1646,
+        "diff_percent": 5.467800729040085
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "HDRO/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.02461,
@@ -135,34 +135,43 @@
         "diff_percent": 5.342008389692659
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "SARM/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 0.002162,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.0020555,
+        "diff_percent": 5.181221114084156
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "KISHU/USDT",
         "sell_exchange": "MEXC",
-        "sell_price": 9.081e-11,
+        "sell_price": 9.006e-11,
         "buy_exchange": "Gate.io",
-        "buy_price": 8.63e-11,
-        "diff_percent": 5.2259559675550324
+        "buy_price": 8.595e-11,
+        "diff_percent": 4.781849912739965
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "TIDAL/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 2.9418000000000002e-05,
-        "buy_exchange": "KuCoin",
-        "buy_price": 2.806e-05,
-        "diff_percent": 4.839629365645057
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "TRAC/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.3496,
         "buy_exchange": "KuCoin",
-        "buy_price": 0.33415,
-        "diff_percent": 4.623672003591207
+        "buy_price": 0.33385,
+        "diff_percent": 4.717687584244434
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "GET/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.0094095,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.0090115,
+        "diff_percent": 4.416578815957377
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "GX/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.000564,
@@ -171,7 +180,7 @@
         "diff_percent": 4.328523862375143
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "NVIR/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.00027715,
@@ -180,16 +189,16 @@
         "diff_percent": 4.191729323308282
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "SARM/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.0021345,
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "JUV/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.97205,
         "buy_exchange": "Gate.io",
-        "buy_price": 0.002049,
-        "diff_percent": 4.172767203513913
+        "buy_price": 0.9344,
+        "diff_percent": 4.029323630136982
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "HTM/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.147735,
@@ -198,7 +207,16 @@
         "diff_percent": 4.002111932418159
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "POGAI/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 5.9385e-06,
+        "buy_exchange": "Gate.io",
+        "buy_price": 5.7125e-06,
+        "diff_percent": 3.956236323851204
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "BFC/USDT",
         "sell_exchange": "HTX",
         "sell_price": 0.04505,
@@ -207,25 +225,43 @@
         "diff_percent": 3.5156249999999925
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "DIN/USDT",
-        "sell_exchange": "KuCoin",
-        "sell_price": 0.07505,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.072615,
-        "diff_percent": 3.3533016594367644
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "NEUR/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.0013800000000000002,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.0013345,
+        "diff_percent": 3.409516672911216
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "WALLET/USDT",
         "sell_exchange": "MEXC",
-        "sell_price": 0.016565,
+        "sell_price": 0.016575,
         "buy_exchange": "HTX",
         "buy_price": 0.0160355,
-        "diff_percent": 3.3020485797137518
+        "diff_percent": 3.3644102148358224
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "OOKI/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 3.1500000000000003e-06,
+        "buy_exchange": "Gate.io",
+        "buy_price": 3.0480000000000003e-06,
+        "diff_percent": 3.346456692913387
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "XYRO/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 0.0007517,
+        "buy_exchange": "KuCoin",
+        "buy_price": 0.0007275,
+        "diff_percent": 3.3264604810996627
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "QBX/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.004302,
@@ -234,7 +270,7 @@
         "diff_percent": 3.21868589320634
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "BCCOIN/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.12746,
@@ -243,7 +279,7 @@
         "diff_percent": 3.12714915651926
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "PACK/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.023995000000000002,
@@ -252,7 +288,16 @@
         "diff_percent": 3.0934479054779884
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "BLS/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 0.010325,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.010017999999999999,
+        "diff_percent": 3.064483928927947
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "MAGATRUMP/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 0.13774999999999998,
@@ -261,16 +306,25 @@
         "diff_percent": 2.952167414050808
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "LUNC/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 6.120999999999999e-05,
-        "buy_exchange": "HTX",
-        "buy_price": 5.948e-05,
-        "diff_percent": 2.908540685944842
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "VON/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 2.2107e-05,
+        "buy_exchange": "Gate.io",
+        "buy_price": 2.1479999999999998e-05,
+        "diff_percent": 2.918994413407834
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "THN/USDT",
+        "sell_exchange": "Bybit",
+        "sell_price": 0.000518,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.00050345,
+        "diff_percent": 2.890058595689741
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "ASS/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 8.363e-10,
@@ -279,79 +333,52 @@
         "diff_percent": 2.859602730459381
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "THN/USDT",
-        "sell_exchange": "Bybit",
-        "sell_price": 0.0005175,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.00050345,
-        "diff_percent": 2.7907438673155096
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "LUNC/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 6.118000000000001e-05,
+        "buy_exchange": "HTX",
+        "buy_price": 5.948e-05,
+        "diff_percent": 2.858103564223281
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "OVER/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.026975,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.026244999999999997,
-        "diff_percent": 2.7814821870832596
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "BLS/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.01029,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.010017999999999999,
-        "diff_percent": 2.7151127969654762
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "SIDUS/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.0008320000000000001,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.0008101499999999999,
-        "diff_percent": 2.6970314139357066
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "SKOP/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.029755,
         "buy_exchange": "Gate.io",
-        "buy_price": 0.029009,
-        "diff_percent": 2.5716157054707165
+        "buy_price": 0.0289535,
+        "diff_percent": 2.7682318199872213
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "GMM/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 5.8059999999999996e-05,
-        "buy_exchange": "Gate.io",
-        "buy_price": 5.6630000000000005e-05,
-        "diff_percent": 2.525163340985328
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "ARCA/USDT",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "DIN/USDT",
         "sell_exchange": "KuCoin",
-        "sell_price": 0.016285,
+        "sell_price": 0.0746,
         "buy_exchange": "Gate.io",
-        "buy_price": 0.015895,
-        "diff_percent": 2.453601761560248
+        "buy_price": 0.072615,
+        "diff_percent": 2.733594987261586
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "XYRO/USDT",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "OVER/USDT",
         "sell_exchange": "MEXC",
-        "sell_price": 0.0007524,
-        "buy_exchange": "KuCoin",
-        "buy_price": 0.0007344999999999999,
-        "diff_percent": 2.4370319945541263
+        "sell_price": 0.026955,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.02627,
+        "diff_percent": 2.6075371145793604
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "TIDAL/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 2.98605e-05,
+        "buy_exchange": "KuCoin",
+        "buy_price": 2.9134999999999998e-05,
+        "diff_percent": 2.4901321434700594
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "MSQ/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 14.0125,
@@ -360,52 +387,43 @@
         "diff_percent": 2.4006138555977654
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "VLX/USDT",
-        "sell_exchange": "HTX",
-        "sell_price": 0.0018655,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.001822,
-        "diff_percent": 2.3874862788144853
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "SHIRO/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 5.7875e-09,
-        "buy_exchange": "MEXC",
-        "buy_price": 5.6544999999999994e-09,
-        "diff_percent": 2.352108939782479
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "PIT/USDT",
         "sell_exchange": "MEXC",
-        "sell_price": 2.497e-10,
+        "sell_price": 2.496e-10,
         "buy_exchange": "Gate.io",
         "buy_price": 2.44e-10,
-        "diff_percent": 2.336065573770488
+        "diff_percent": 2.2950819672131195
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "GET/USDT",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "SHIRO/USDT",
         "sell_exchange": "Gate.io",
-        "sell_price": 0.009403,
+        "sell_price": 5.788e-09,
         "buy_exchange": "MEXC",
-        "buy_price": 0.009194,
-        "diff_percent": 2.2732216663041016
+        "buy_price": 5.6585e-09,
+        "diff_percent": 2.288592383140416
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "WAT/USDT",
-        "sell_exchange": "HTX",
-        "sell_price": 1.645e-05,
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "RDNT/USDT",
+        "sell_exchange": "KuCoin",
+        "sell_price": 0.02255,
+        "buy_exchange": "HTX",
+        "buy_price": 0.02205,
+        "diff_percent": 2.267573696145127
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "SIDUS/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 0.0008285,
         "buy_exchange": "Gate.io",
-        "buy_price": 1.6084499999999998e-05,
-        "diff_percent": 2.272374024682159
+        "buy_price": 0.0008101499999999999,
+        "diff_percent": 2.2650126519780405
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "CLAY/USDT",
         "sell_exchange": "Gate.io",
         "sell_price": 1.4905e-05,
@@ -414,7 +432,7 @@
         "diff_percent": 2.2641509433962397
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "XETA/USDT",
         "sell_exchange": "HTX",
         "sell_price": 0.00023050000000000002,
@@ -423,57 +441,84 @@
         "diff_percent": 2.2399645154136234
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "TRIO/USDT",
-        "sell_exchange": "Gate.io",
-        "sell_price": 0.6269,
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "BILLY/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.00536,
         "buy_exchange": "MEXC",
-        "buy_price": 0.6134999999999999,
-        "diff_percent": 2.1841890790546175
+        "buy_price": 0.005246,
+        "diff_percent": 2.1730842546702323
     },
     {
-        "timestamp": "2025-07-15T10:36:00.060661",
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "TRIO/USDT",
+        "sell_exchange": "Gate.io",
+        "sell_price": 0.6267,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.6134999999999999,
+        "diff_percent": 2.1515892420538063
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "VLX/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.001861,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.001822,
+        "diff_percent": 2.140504939626782
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "GMM/USDT",
+        "sell_exchange": "KuCoin",
+        "sell_price": 5.82e-05,
+        "buy_exchange": "Gate.io",
+        "buy_price": 5.6995e-05,
+        "diff_percent": 2.114220545661899
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "RBC/USDT",
+        "sell_exchange": "MEXC",
+        "sell_price": 0.0113585,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.011126500000000001,
+        "diff_percent": 2.085112119714192
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "AITECH/USDT",
+        "sell_exchange": "WhiteBIT",
+        "sell_price": 0.04402,
+        "buy_exchange": "Gate.io",
+        "buy_price": 0.043125,
+        "diff_percent": 2.07536231884058
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "B3TR/USDT",
+        "sell_exchange": "Bybit",
+        "sell_price": 0.067965,
+        "buy_exchange": "MEXC",
+        "buy_price": 0.066605,
+        "diff_percent": 2.0418887470910594
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
+        "symbol": "OBT/USDT",
+        "sell_exchange": "HTX",
+        "sell_price": 0.007180000000000001,
+        "buy_exchange": "Bybit",
+        "buy_price": 0.0070385,
+        "diff_percent": 2.0103715280244514
+    },
+    {
+        "timestamp": "2025-07-15T10:37:00.311257",
         "symbol": "GRIFT/USDT",
         "sell_exchange": "MEXC",
         "sell_price": 0.006901,
         "buy_exchange": "HTX",
-        "buy_price": 0.006755000000000001,
-        "diff_percent": 2.1613619541080595
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "SYNT/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.01252,
-        "buy_exchange": "HTX",
-        "buy_price": 0.01226,
-        "diff_percent": 2.1207177814029348
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "POGAI/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 5.826e-06,
-        "buy_exchange": "Gate.io",
-        "buy_price": 5.707e-06,
-        "diff_percent": 2.085158577185913
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "RBC/USDT",
-        "sell_exchange": "MEXC",
-        "sell_price": 0.0113575,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.0111265,
-        "diff_percent": 2.0761245674740514
-    },
-    {
-        "timestamp": "2025-07-15T10:36:00.060661",
-        "symbol": "AITECH/USDT",
-        "sell_exchange": "WhiteBIT",
-        "sell_price": 0.044,
-        "buy_exchange": "Gate.io",
-        "buy_price": 0.043125,
-        "diff_percent": 2.0289855072463787
+        "buy_price": 0.006765,
+        "diff_percent": 2.0103473762010324
     }
 ]
